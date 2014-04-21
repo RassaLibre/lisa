@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html class="no-js" ng-app="myApp">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>LISA2 - powerful AngularJS dev-stack</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- cdn bootstrap -->
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/compiled.css">
+    </head>
+    <body>
+        <h1>LISA - powerful AngularJS dev-stack</h1>
+        
+        <div class="container">
+            <ul class="nav nav-pills main_navigation">
+                <li menuitemselector><a ng-href="#/">Home</a></li>
+                <li menuitemselector><a ng-href="#/installation">Installation</a></li>            
+                <li menuitemselector><a ng-href="#/tasks">Grunt tasks</a></li>
+                <li menuitemselector><a ng-href="#/sampleapp">Sample application</a></li>
+            </ul>
+            <ng-view></ng-view>            
+        </div>
+
+        <!-- AngularJS -->
+        <script src="js/vendor/angular.min.js"></script>
+        <script src="js/vendor/angular-route.min.js"></script>
+        
+        <!--
+        CDN AngularJS and routeJS
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.12/angular.min.js"></script>
+        <script src="//code.angularjs.org/1.2.12/angular-route.js"></script>
+        -->
+
+        <!-- AngularJS modules - change to compiled.js after build -->
+        <script src="js/dist/dist.js"></script>
+
+        <!-- Livereload - (delete in production!) -->
+        <script src="http://localhost:35729/livereload.js"></script>
+    </body>
+</html>

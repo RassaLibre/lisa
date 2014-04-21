@@ -1,0 +1,938 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sam",
+				"sampletext_input"
+			],
+			[
+				"angu",
+				"angular-mocks"
+			],
+			[
+				"an",
+				"angular-route"
+			],
+			[
+				"el",
+				"elem"
+			],
+			[
+				"un",
+				"unique_id"
+			],
+			[
+				"users",
+				"usersSrvc"
+			],
+			[
+				"edit_us",
+				"edited_user"
+			],
+			[
+				"user",
+				"usersSrvc"
+			],
+			[
+				"id",
+				"_id"
+			],
+			[
+				"modal",
+				"modalInstance"
+			],
+			[
+				"bru",
+				"brukenavnet"
+			],
+			[
+				"sear",
+				"search_func"
+			],
+			[
+				"contro",
+				"controllers"
+			],
+			[
+				"pr",
+				"Prøv"
+			],
+			[
+				"save_order",
+				"save_order_to_db"
+			],
+			[
+				"orders",
+				"ordersSrvc"
+			],
+			[
+				"md-",
+				"col-md-6"
+			],
+			[
+				"num",
+				"numminutes"
+			],
+			[
+				"orde",
+				"order"
+			],
+			[
+				"part",
+				"part_selected"
+			],
+			[
+				"possible",
+				"possible_parts"
+			],
+			[
+				"com",
+				"complaint_parts"
+			],
+			[
+				"mong",
+				"mongo_filters"
+			],
+			[
+				"new",
+				"newpartform"
+			],
+			[
+				"butto",
+				"button_message"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"date",
+				"date_obj"
+			],
+			[
+				"dat",
+				"date_obj"
+			],
+			[
+				"get",
+				"getMonth"
+			],
+			[
+				"order",
+				"ordersSrvc"
+			],
+			[
+				"left",
+				"left_v"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"nex",
+				"next_status"
+			],
+			[
+				"sta",
+				"status_button_visibility"
+			],
+			[
+				"stat",
+				"status_labels"
+			],
+			[
+				"to",
+				"toGMTString"
+			],
+			[
+				"statu",
+				"statuses"
+			],
+			[
+				"cu",
+				"cur_indent"
+			],
+			[
+				"list",
+				"list_of_statuses"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"nu",
+				"numupdated"
+			],
+			[
+				"promise",
+				"promiseFunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/js/directives/MenuItemSelector.coffee",
+			"settings":
+			{
+				"buffer_size": 911,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/directives/directives.coffee",
+			"settings":
+			{
+				"buffer_size": 229,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 1764,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/app/app.coffee",
+			"settings":
+			{
+				"buffer_size": 916,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/controllers/InstallationCtrl.coffee",
+			"settings":
+			{
+				"buffer_size": 138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/e2e/directives/MenuItemSelector.test.js",
+			"settings":
+			{
+				"buffer_size": 504,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/partials/sampleapp.html",
+			"settings":
+			{
+				"buffer_size": 554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/e2e/controllers/SampleAppCtrl.test.js",
+			"settings":
+			{
+				"buffer_size": 926,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 2605,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build/index.html",
+			"settings":
+			{
+				"buffer_size": 1640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 4980,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "karma/prod/karma-e2e.conf.js",
+			"settings":
+			{
+				"buffer_size": 809,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "karma/prod/karma-unit.conf.js",
+			"settings":
+			{
+				"buffer_size": 777,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 210,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "karma/karma-unit.conf.js",
+			"settings":
+			{
+				"buffer_size": 622,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/app/js/controllers/MainCtrl.coffee",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/karma/karma-unit.conf.js",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/app/js/app/app.coffee",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/test/unit/controllers/SampleAppCtrl.test.js",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/app/js/controllers/SampleAppCtrl.coffee",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/app/partials/sampleapp.html",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/test/unit/controllersSpec.js",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/app/js/dist/dist.js",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/README.md",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/test/e2e/scenarios.js",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/test/e2e/main_menu.js",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/.gitignore",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/app/index.html",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/Gruntfile.js",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/package.json",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/bower.json",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/node_modules/grunt-closure-compiler/Gruntfile.js",
+		"/Users/tomasprochazka/Documents/Nodespace/lisa2/node_modules/grunt-closure-compiler/tasks/closure-compiler.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/js/controllers.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/templates/errormessage.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/css/app.css",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/js/filters.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/partials/orders.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/partials/orders_warranty.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/partials/orders_parts.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/templates/tablefilter.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/partials/new_order_parts.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/js/services.js",
+		"/Users/tomasprochazka/Documents/Nodespace/countdown_app/app/js/vendor/firebase.js",
+		"/Users/tomasprochazka/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tomasprochazka/Documents/Nodespace/countdown_app/package.json",
+		"/Users/tomasprochazka/Documents/Nodespace/countdown_app/Gruntfile.js",
+		"/Users/tomasprochazka/Documents/Nodespace/countdown_app/node_modules/grunt-closure-compiler/tasks/closure-compiler.js",
+		"/Users/tomasprochazka/Documents/Nodespace/countdown_app/app/js/app/app.coffee",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/js/ui-bootstrap-0.6.0.min.js",
+		"/Users/tomasprochazka/Downloads/sparql (4).csv",
+		"/Users/tomasprochazka/sshfs_searis_dev/GK API/searis-api/app/api/user.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/templates/editnumber.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/templates/orderdetailstatuschange.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/templates/statuschange.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/partials/inventar.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/partials/users.html",
+		"/Users/tomasprochazka/Documents/Nodespace/with_Lisa/css/main.css",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/js/app.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/js/directives.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/partials/new_order.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/index.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/js/bootstrap.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/partials/production.html",
+		"/Users/tomasprochazka/sshfs_searis_dev/GK API/searis-api/app/dataservices/index.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/GK API/searis-api/app/dataservices/orderService.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/GK API/searis-api/app/api/order.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/GK API/searis-api/app/models/model.js",
+		"/Users/tomasprochazka/sshfs_searis_dev/Granit Kleber Front-End/angular-seed/app/templates/successmessage.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" \n",
+			"watchCol",
+			"edituserbyadminCtrl",
+			"edituser_by_admin",
+			"user",
+			"Lagre",
+			"users",
+			"clean_search",
+			"search_orders",
+			"watchColl",
+			"watch",
+			"filter_order_type",
+			"location.",
+			"save_order",
+			"_",
+			"http://dbpedia.org/resource/",
+			"users",
+			"_",
+			"http://dbpedia.org/resource/",
+			"$scope.part_selected",
+			"disabled_fields",
+			"select_part",
+			"watch",
+			"PickDateForStatusModalCtrl",
+			"detailOrderModalCtrl",
+			"orderDetail",
+			"highlight",
+			"Dele",
+			"ed7e22",
+			"orderSrvc",
+			"partlist",
+			"rootScope",
+			"usersCtrl",
+			"show-weeks",
+			"show-weeeks",
+			"databas",
+			"orderDetail",
+			"detailOrderModalCtrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"",
+			" ",
+			"",
+			"ff9426"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/js/directives/MenuItemSelector.coffee",
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								681,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/coffee-script-tmbundle/Syntaxes/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/js/directives/directives.coffee",
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/coffee-script-tmbundle/Syntaxes/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 1764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1500,
+								1500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/js/app/app.coffee",
+					"settings":
+					{
+						"buffer_size": 916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/coffee-script-tmbundle/Syntaxes/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/js/controllers/InstallationCtrl.coffee",
+					"settings":
+					{
+						"buffer_size": 138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/coffee-script-tmbundle/Syntaxes/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "test/e2e/directives/MenuItemSelector.test.js",
+					"settings":
+					{
+						"buffer_size": 504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/partials/sampleapp.html",
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "test/e2e/controllers/SampleAppCtrl.test.js",
+					"settings":
+					{
+						"buffer_size": 926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 2605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1047,
+								1047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 429.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "build/index.html",
+					"settings":
+					{
+						"buffer_size": 1640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1605,
+								1605
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 4980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4855,
+								4855
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1149.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "karma/prod/karma-e2e.conf.js",
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "karma/prod/karma-unit.conf.js",
+					"settings":
+					{
+						"buffer_size": 777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "karma/karma-unit.conf.js",
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}
